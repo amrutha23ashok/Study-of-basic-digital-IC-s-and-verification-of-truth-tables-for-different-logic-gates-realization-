@@ -78,32 +78,15 @@ nand (y5,a,b);
 nor (y6,a,b)
 xnor (y7,a,b);
 endmodule
-`
+```
 
 ## Logic symbol & Truthtable:
-![](LG.jpg)
+![](logic.jpeg.jpg)
 
-![](TT.png)
+![](Truth.jpeg.png)
 
 ## RTL realization:
-![](o1.png)
+![](output.jpeg.png)
 
 ## Result:
 Thus the different digital IC’s are studied and the truth table for different logic gates are verified.
-=======
-## Logic symbol & Truthtable:
-
-
-
-
-
-
-## RTL realization:
-
-
-
-
-
-## Result:
-Thus the different digital IC’s are studied and the truth table for different logic gates are verified.
-
