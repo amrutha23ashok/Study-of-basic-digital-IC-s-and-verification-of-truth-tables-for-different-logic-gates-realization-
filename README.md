@@ -81,11 +81,14 @@ endmodule
 ## Logic symbol & Truthtable:
 
 
-![Uploading LG.jpg…]()
+
 
 
 
 ## RTL realization:
+
+
+
 
 
 ## Result:
